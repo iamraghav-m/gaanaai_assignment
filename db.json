@@ -1,0 +1,465 @@
+
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegard.org",
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "address": {
+        "street": "Victor Plains",
+        "suite": "Suite 879",
+        "city": "Wisokyburgh",
+        "zipcode": "90566-7771",
+        "geo": {
+          "lat": "-43.9509",
+          "lng": "-34.4618"
+        }
+      },
+      "phone": "010-692-6593 x09125",
+      "website": "anastasia.net",
+      "company": {
+        "name": "Deckow-Crist",
+        "catchPhrase": "Proactive didactic contingency",
+        "bs": "synergize scalable supply-chains"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "address": {
+        "street": "Douglas Extension",
+        "suite": "Suite 847",
+        "city": "McKenziehaven",
+        "zipcode": "59590-4157",
+        "geo": {
+          "lat": "-68.6102",
+          "lng": "-47.0653"
+        }
+      },
+      "phone": "1-463-123-4447",
+      "website": "ramiro.info",
+      "company": {
+        "name": "Romaguera-Jacobson",
+        "catchPhrase": "Face to face bifurcated interface",
+        "bs": "e-enable strategic applications"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "address": {
+        "street": "Hoeger Mall",
+        "suite": "Apt. 692",
+        "city": "South Elvis",
+        "zipcode": "53919-4257",
+        "geo": {
+          "lat": "29.4572",
+          "lng": "-164.2990"
+        }
+      },
+      "phone": "493-170-9623 x156",
+      "website": "kale.biz",
+      "company": {
+        "name": "Robel-Corkery",
+        "catchPhrase": "Multi-tiered zero tolerance productivity",
+        "bs": "transition cutting-edge web services"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "email": "Lucio_Hettinger@annie.ca",
+      "address": {
+        "street": "Skiles Walks",
+        "suite": "Suite 351",
+        "city": "Roscoeview",
+        "zipcode": "33263",
+        "geo": {
+          "lat": "-31.8129",
+          "lng": "62.5342"
+        }
+      },
+      "phone": "(254)954-1289",
+      "website": "demarco.info",
+      "company": {
+        "name": "Keebler LLC",
+        "catchPhrase": "User-centric fault-tolerant solution",
+        "bs": "revolutionize end-to-end systems"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Mrs. Dennis Schulist",
+      "username": "Leopoldo_Corkery",
+      "email": "Karley_Dach@jasper.info",
+      "address": {
+        "street": "Norberto Crossing",
+        "suite": "Apt. 950",
+        "city": "South Christy",
+        "zipcode": "23505-1337",
+        "geo": {
+          "lat": "-71.4197",
+          "lng": "71.7478"
+        }
+      },
+      "phone": "1-477-935-8478 x6430",
+      "website": "ola.org",
+      "company": {
+        "name": "Considine-Lockman",
+        "catchPhrase": "Synchronised bottom-line interface",
+        "bs": "e-enable innovative applications"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Kurtis Weissnat",
+      "username": "Elwyn.Skiles",
+      "email": "Telly.Hoeger@billy.biz",
+      "address": {
+        "street": "Rex Trail",
+        "suite": "Suite 280",
+        "city": "Howemouth",
+        "zipcode": "58804-1099",
+        "geo": {
+          "lat": "24.8918",
+          "lng": "21.8984"
+        }
+      },
+      "phone": "210.067.6132",
+      "website": "elvis.io",
+      "company": {
+        "name": "Johns Group",
+        "catchPhrase": "Configurable multimedia task-force",
+        "bs": "generate enterprise e-tailers"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Nicholas Runolfsdottir V",
+      "username": "Maxime_Nienow",
+      "email": "Sherwood@rosamond.me",
+      "address": {
+        "street": "Ellsworth Summit",
+        "suite": "Suite 729",
+        "city": "Aliyaview",
+        "zipcode": "45169",
+        "geo": {
+          "lat": "-14.3990",
+          "lng": "-120.7677"
+        }
+      },
+      "phone": "586.493.6943 x140",
+      "website": "jacynthe.com",
+      "company": {
+        "name": "Abernathy Group",
+        "catchPhrase": "Implemented secondary concept",
+        "bs": "e-enable extensible e-tailers"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Glenna Reichert",
+      "username": "Delphine",
+      "email": "Chaim_McDermott@dana.io",
+      "address": {
+        "street": "Dayna Park",
+        "suite": "Suite 449",
+        "city": "Bartholomebury",
+        "zipcode": "76495-3109",
+        "geo": {
+          "lat": "24.6463",
+          "lng": "-168.8889"
+        }
+      },
+      "phone": "(775)976-6794 x41206",
+      "website": "conrad.com",
+      "company": {
+        "name": "Yost and Sons",
+        "catchPhrase": "Switchable contextually-based project",
+        "bs": "aggregate real-time technologies"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Clementina DuBuque",
+      "username": "Moriah.Stanton",
+      "email": "Rey.Padberg@karina.biz",
+      "address": {
+        "street": "Kattie Turnpike",
+        "suite": "Suite 198",
+        "city": "Lebsackbury",
+        "zipcode": "31428-2261",
+        "geo": {
+          "lat": "-38.2386",
+          "lng": "57.2232"
+        }
+      },
+      "phone": "024-648-3804",
+      "website": "ambrose.net",
+      "company": {
+        "name": "Hoeger LLC",
+        "catchPhrase": "Centralized empowering task-force",
+        "bs": "target end-to-end models"
+      }
+    },
+    {
+      "id": 11,
+      "name": "John Smith",
+      "username": "jsmith",
+      "email": "john.smith@example.com",
+      "address": {
+        "street": "Main Street",
+        "suite": "Apt 101",
+        "city": "New York",
+        "zipcode": "10001",
+        "geo": {
+          "lat": "40.7128",
+          "lng": "-74.0060"
+        }
+      },
+      "phone": "212-555-1234",
+      "website": "johnsmith.com",
+      "company": {
+        "name": "Smith Enterprises",
+        "catchPhrase": "Making the world better",
+        "bs": "innovate user experiences"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Jane Doe",
+      "username": "jdoe",
+      "email": "jane.doe@example.com",
+      "address": {
+        "street": "Broadway",
+        "suite": "Suite 500",
+        "city": "Los Angeles",
+        "zipcode": "90001",
+        "geo": {
+          "lat": "34.0522",
+          "lng": "-118.2437"
+        }
+      },
+      "phone": "323-555-6789",
+      "website": "janedoe.net",
+      "company": {
+        "name": "Doe Design",
+        "catchPhrase": "Design for the future",
+        "bs": "create beautiful interfaces"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Bob Johnson",
+      "username": "bjohnson",
+      "email": "bob.johnson@example.com",
+      "address": {
+        "street": "Market Street",
+        "suite": "Floor 12",
+        "city": "San Francisco",
+        "zipcode": "94103",
+        "geo": {
+          "lat": "37.7749",
+          "lng": "-122.4194"
+        }
+      },
+      "phone": "415-555-9876",
+      "website": "bjohnson.org",
+      "company": {
+        "name": "Johnson Tech",
+        "catchPhrase": "Technology for everyone",
+        "bs": "scale global solutions"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Alice Williams",
+      "username": "awilliams",
+      "email": "alice.williams@example.com",
+      "address": {
+        "street": "Park Avenue",
+        "suite": "Unit 3B",
+        "city": "Chicago",
+        "zipcode": "60601",
+        "geo": {
+          "lat": "41.8781",
+          "lng": "-87.6298"
+        }
+      },
+      "phone": "312-555-4321",
+      "website": "alicewilliams.io",
+      "company": {
+        "name": "Williams Consulting",
+        "catchPhrase": "Strategic solutions",
+        "bs": "optimize business processes"
+      }
+    },
+    {
+      "id": 15,
+      "name": "David Brown",
+      "username": "dbrown",
+      "email": "david.brown@example.com",
+      "address": {
+        "street": "Washington Avenue",
+        "suite": "Suite 200",
+        "city": "Seattle",
+        "zipcode": "98101",
+        "geo": {
+          "lat": "47.6062",
+          "lng": "-122.3321"
+        }
+      },
+      "phone": "206-555-7890",
+      "website": "davidbrown.com",
+      "company": {
+        "name": "Brown Solutions",
+        "catchPhrase": "Solutions for tomorrow",
+        "bs": "revolutionize customer experiences"
+      }
+    },
+    {
+      "id": 16,
+      "name": "Sarah Miller",
+      "username": "smiller",
+      "email": "sarah.miller@example.com",
+      "address": {
+        "street": "Pine Street",
+        "suite": "Apt 505",
+        "city": "Boston",
+        "zipcode": "02108",
+        "geo": {
+          "lat": "42.3601",
+          "lng": "-71.0589"
+        }
+      },
+      "phone": "617-555-2345",
+      "website": "sarahmiller.net",
+      "company": {
+        "name": "Miller Innovations",
+        "catchPhrase": "Innovate or perish",
+        "bs": "disrupt traditional industries"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Michael Wilson",
+      "username": "mwilson",
+      "email": "michael.wilson@example.com",
+      "address": {
+        "street": "Oak Street",
+        "suite": "Unit 7",
+        "city": "Austin",
+        "zipcode": "78701",
+        "geo": {
+          "lat": "30.2672",
+          "lng": "-97.7431"
+        }
+      },
+      "phone": "512-555-8765",
+      "website": "michaelwilson.org",
+      "company": {
+        "name": "Wilson Software",
+        "catchPhrase": "Software that works",
+        "bs": "deliver seamless experiences"
+      }
+    },
+    {
+      "id": 18,
+      "name": "Emily Jones",
+      "username": "ejones",
+      "email": "emily.jones@example.com",
+      "address": {
+        "street": "Cherry Street",
+        "suite": "Floor 3",
+        "city": "Denver",
+        "zipcode": "80202",
+        "geo": {
+          "lat": "39.7392",
+          "lng": "-104.9903"
+        }
+      },
+      "phone": "303-555-6543",
+      "website": "emilyjones.com",
+      "company": {
+        "name": "Jones & Co",
+        "catchPhrase": "Building better businesses",
+        "bs": "transform digital landscapes"
+      }
+    },
+    {
+      "id": 19,
+      "name": "Robert Taylor",
+      "username": "rtaylor",
+      "email": "robert.taylor@example.com",
+      "address": {
+        "street": "Maple Avenue",
+        "suite": "Suite 100",
+        "city": "Portland",
+        "zipcode": "97201",
+        "geo": {
+          "lat": "45.5051",
+          "lng": "-122.6750"
+        }
+      },
+      "phone": "503-555-9876",
+      "website": "roberttaylor.io",
+      "company": {
+        "name": "Taylor Technologies",
+        "catchPhrase": "Technology for the future",
+        "bs": "accelerate digital transformation"
+      }
+    },
+    {
+      "id": 20,
+      "name": "Jennifer Anderson",
+      "username": "janderson",
+      "email": "jennifer.anderson@example.com",
+      "address": {
+        "street": "Cedar Lane",
+        "suite": "Apt 202",
+        "city": "Miami",
+        "zipcode": "33101",
+        "geo": {
+          "lat": "25.7617",
+          "lng": "-80.1918"
+        }
+      },
+      "phone": "305-555-1234",
+      "website": "jenniferanderson.net",
+      "company": {
+        "name": "Anderson Digital",
+        "catchPhrase": "Digital solutions simplified",
+        "bs": "empower online presence"
+      }
+    }
+  ]
+}
